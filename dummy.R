@@ -1,6 +1,6 @@
 rm(list=ls())
 library(car)
-reg.data=read.csv("C:/Users/majum/OneDrive - ST. XAVIER'S COLLEGE/#Dissertation paper/#work/CSVs/regression_data.csv")
+reg.data=read.csv("regression_data.csv")
 reg.data=na.omit(reg.data)
 attach(reg.data)
 reg.data
