@@ -89,3 +89,6 @@ This project is for academic, educational, and non-commercial use only.
 
 ---
 
+## 🧠 Author
+- **Biswarup Majumdar**  
+- Data Science Enthusiast | [LinkedIn](https://linkedin.com/in/biswarup-majumdar)
